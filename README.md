@@ -5,14 +5,15 @@ The dataset includes features such as surface/wall/roof area, glass area, glass 
 # TECHNICAL OBJECTIVE
 Develop a machine learning model to predict cooling energy consumption in residential buildings.
 # TECHNICAL IMPLEMENTATION OF USING HEATING AND COOLING ENERGY CONSUMPTION PREDICTION MODEL
-The use of predictive models for energy consumption can help in optimal sizing of the cooling and heating system in a building thereby improving energy efficiency.
-•	Energy Savings: Properly sized heating/cooling systems operate at higher efficiencies, resulting in energy savings and reduced operating costs.
-•	Reduced Wear and Tear: Oversized systems often cycle on and off more frequently, which can lead to increased wear and tear on equipment. Right-sizing prevents this issue.
+The use of predictive models for energy consumption can help in optimal sizing of the cooling and heating system in a building thereby improving energy efficiency.  
+•	Energy Savings: Properly sized heating/cooling systems operate at higher efficiencies, resulting in energy savings and reduced operating costs.  
+•	Reduced Wear and Tear: Oversized systems often cycle on and off more frequently, which can lead to increased wear and tear on equipment. Right-sizing prevents this issue.  
 •	Comfort: Systems that are too large may lead to temperature swings and discomfort for occupants. Predictive modeling can help avoid this by ensuring that the system is appropriately sized to maintain consistent comfort.
 # ML/DS Goals
-•	Identify missing values and outliers
-•	Explore the data using histogram, boxplots, and barcharts visualizations
-•	Identify important features through univariate and multivariate analysis
-•	Apply Feature Engineering to prepare data for modelling
-•	Build Model
-•	Evaluation of model performance
+•	Identify missing values and outliers  
+•	Explore the data using histograms, boxplots, and bar charts visualizations  
+•	Identify important features through univariate and multivariate analysis  
+•	Apply Feature Engineering to prepare data for modeling  
+•	Build Model  
+•	Evaluation of model performance  
+•	Testing of models
